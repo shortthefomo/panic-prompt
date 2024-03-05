@@ -2,7 +2,7 @@
 <span id="a">panicbot@xahau</span>:<span id="b">~</span><span id="c">$</span> xahaud <!-- sjkfhskjf --> server_info<br/><br/>
 Rebooting "<span id="k">XRPL Deamon</span>". <!-- sjkfhskjf -->
 
-Xahau Deamon run by, @ShortTheFOMO</p>.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Xahau Deamon run by, <a href="https://twitter.com/ShortTheFOMO">@ShortTheFOMO</a></p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 <p>xApp support <a href="https://support.panicbot.app"> Go here</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
