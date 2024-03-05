@@ -1,0 +1,11 @@
+<span id="a">panicbot@xahau</span>:<span id="b">~</span><span id="c">$</span> sudo <!-- sjkfhskjf --> systemctl start xahaud
+<span id="a">panicbot@xahau</span>:<span id="b">~</span><span id="c">$</span> xahaud <!-- sjkfhskjf --> server_info<br/><br/>
+Rebooting "<span id="k">XRPL Deamon</span>". <!-- sjkfhskjf -->
+
+Xahau Deamon run by, @ShortTheFOMO</p>.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+
+<p>xApp support <a href="https://support.panicbot.app"> Go here</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+
+<p> Ping for websocket connections to public Xahau instance(s).</p>
+
+<p>Cheers!</p>
