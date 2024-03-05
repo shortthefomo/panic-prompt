@@ -2,9 +2,9 @@
 <span id="a">panicbot@xahau</span>:<span id="b">~</span><span id="c">$</span> xahaud <!-- sjkfhskjf --> server_info<br/><br/>
 Rebooting "<span id="k">XRPL Deamon</span>". <!-- sjkfhskjf -->
 
-Xahau Deamon run by, <a href="https://twitter.com/ShortTheFOMO">@ShortTheFOMO</a></p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>Xahau Deamon run by, <a href="https://twitter.com/ShortTheFOMO">@ShortTheFOMO</a><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<p>xApp support <a href="https://support.panicbot.app"> Go here</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+xApp support <a href="https://support.panicbot.app"> Go here</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
 <p> Ping for websocket connections to public Xahaud or Rippled instance(s).</p>
 
