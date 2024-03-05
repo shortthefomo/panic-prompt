@@ -1,8 +1,8 @@
 <span id="a">panicbot@xahau</span>:<span id="b">~</span><span id="c">$</span> sudo <!-- sjkfhskjf --> systemctl start xahaud
 <span id="a">panicbot@xahau</span>:<span id="b">~</span><span id="c">$</span> xahaud <!-- sjkfhskjf --> server_info<br/><br/>
-Rebooting "<span id="k">XRPL Deamon</span>". <!-- sjkfhskjf -->
+Rebooting "<span id="k">XRPL Daemon</span>". <!-- sjkfhskjf -->
 
-<p>Xahau Deamon run by, <a href="https://twitter.com/ShortTheFOMO">@ShortTheFOMO</a><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>XRPL based daemon's run by, <a href="https://twitter.com/ShortTheFOMO">@ShortTheFOMO</a><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 xApp support <a href="https://support.panicbot.app"> Go here</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
