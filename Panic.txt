@@ -6,6 +6,6 @@ Xahau Deamon run by, <a href="https://twitter.com/ShortTheFOMO">@ShortTheFOMO</a
 
 <p>xApp support <a href="https://support.panicbot.app"> Go here</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
-<p> Ping for websocket connections to public Xahau instance(s).</p>
+<p> Ping for websocket connections to public Xahaud or Rippled instance(s).</p>
 
 <p>Cheers!</p>
