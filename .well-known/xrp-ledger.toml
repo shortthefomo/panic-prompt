@@ -1,0 +1,23 @@
+# Spec: https://xrpl.org/xrp-ledger-toml.html
+
+[METADATA]
+modified = 2024-03-06T12:12:12.000Z
+
+[[VALIDATORS]]
+public_key = "n9KVRpwAn7eXjfuzCcHrr6xXhaAVQgsUMGAjH1PpnxZCGcEggMVn"
+attestation="C2899ECC088EE146D0EE9E61DE4AFF48FF7A965D5BB391D49D7DDF3B4FA7747737135EEDE3946B05A5F661CE82749FFB5901710EA3E19AD5E3AD62C7F005F60A"
+network = "main"
+owner_country = "CL"
+server_country = "CL"
+server_location = "Private datacenter (Puerto Varas area, CL)"
+server_cloud = false
+network_asn = 14117
+desc = "Validator"
+
+unl = ["https://vl.altnet.rippletest.net"]
+
+[[PRINCIPALS]]
+name = "Lathan"
+twitter = "ShortTheFOMO"
+
+# End of file
