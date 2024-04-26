@@ -2,8 +2,8 @@
 <span id="a">panicbot@xahau</span>:<span id="b">~</span><span id="c">$</span> xahaud <!-- sjkfhskjf --> server_info<br/><br/>
 Starting "<span id="k">XAHAU Daemon</span>". <!-- sjkfhskjf --><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<span id="a">panicbot@xahau</span>:<span id="b">~</span><span id="c">$</span> sudo <!-- sjkfhskjf --> systemctl start rippled
-<span id="a">panicbot@xahau</span>:<span id="b">~</span><span id="c">$</span> rippled <!-- sjkfhskjf --> server_info<br/><br/>
+<span id="a">panicbot@xrpl</span>:<span id="b">~</span><span id="c">$</span> sudo <!-- sjkfhskjf --> systemctl start rippled
+<span id="a">panicbot@xrpl</span>:<span id="b">~</span><span id="c">$</span> rippled <!-- sjkfhskjf --> server_info<br/><br/>
 Starting "<span id="k">XRPL Daemon</span>". <!-- sjkfhskjf -->
 
 <p>XRPL based daemon's run by, <a href="https://twitter.com/ShortTheFOMO">@ShortTheFOMO</a><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
