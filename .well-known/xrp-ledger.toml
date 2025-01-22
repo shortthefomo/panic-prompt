@@ -1,20 +1,20 @@
 # Spec: https://xrpl.org/xrp-ledger-toml.html
 
 [METADATA]
-modified = 2024-03-06T12:12:12.000Z
+modified = 2025-01-21T12:12:12.000Z
 
 [[VALIDATORS]]
-public_key = "n9KVRpwAn7eXjfuzCcHrr6xXhaAVQgsUMGAjH1PpnxZCGcEggMVn"
-attestation="C2899ECC088EE146D0EE9E61DE4AFF48FF7A965D5BB391D49D7DDF3B4FA7747737135EEDE3946B05A5F661CE82749FFB5901710EA3E19AD5E3AD62C7F005F60A"
+public_key = "nHUNoV59PdKmyN42WGH6jG9ZmGJdsvn1oRHK5qzpmAs6awckZ92h"
+attestation="9572F77F7CEFC0475FE8F4F8C9877CB790DCE4E6778B6532DBC899466E91E23FBB0EF317B2F78B5D2DABE2407FCD3F485E9E48181B6E1569DBB37B6E228AF600"
 network = "main"
 owner_country = "CL"
-server_country = "CL"
-server_location = "Private datacenter (Puerto Varas area, CL)"
+server_country = "NL"
+server_location = "HOSTCIRCLE-L-, NL"
 server_cloud = false
-network_asn = 14117
+network_asn = 56504
 desc = "Validator"
 
-unl = ["https://vl.altnet.rippletest.net"]
+unl = ["https://vl.ripple.com", "https://vl.xrplf.org"]
 
 [[PRINCIPALS]]
 name = "Lathan"

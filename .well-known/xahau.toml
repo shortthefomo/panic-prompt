@@ -1,17 +1,17 @@
 # Spec: https://xrpl.org/xrp-ledger-toml.html
 
 [METADATA]
-modified = 2024-01-04T12:12:12.000Z
+modified = 2025-01-21T12:12:12.000Z
 
 [[VALIDATORS]]
-public_key = "nHUUVLx2a8d7QbTwsFw2oVqun3YvyMaydMJYfvZba8tYhaKBwWxi"
-attestation="3BC8A848A299E64C5A5DE8BB99BA1514C2940BD9FC46EA646C87E17FEF773642BBD32456578A9B74BB97FEFBEB8788A0639F6F497C2DEED1AC474EDB60A82500"
+public_key = "nHU9fTS3by8T2Ar3fZoD2f4KFXeqE58yRshSYG6mAnoB4ARADmDA"
+attestation="08F83AEC7055DDA04F3BCC6AD31F475A9B9E8CA9768233A31221645B18907D3332D07CF5B389B0E9F13F2AC173D9D5CB14C469475F26984C79EAE5A5D6E2B70C"
 network = "main"
 owner_country = "CL"
-server_country = "CL"
-server_location = "Private datacenter (Puerto Varas area, CL)"
+server_country = "NL"
+server_location = "HOSTCIRCLE-L-, NL"
 server_cloud = false
-network_asn = 14117
+network_asn = 56504
 desc = "Validator"
 
 unl = ["https://vl.xahau.org"]
