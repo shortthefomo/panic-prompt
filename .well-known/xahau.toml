@@ -1,20 +1,38 @@
 # Spec: https://xrpl.org/xrp-ledger-toml.html
 
 [METADATA]
-modified = 2025-01-21T12:12:12.000Z
+modified = 2025-02-14T12:12:12.000Z
 
 [[VALIDATORS]]
 public_key = "nHU9fTS3by8T2Ar3fZoD2f4KFXeqE58yRshSYG6mAnoB4ARADmDA"
-attestation="08F83AEC7055DDA04F3BCC6AD31F475A9B9E8CA9768233A31221645B18907D3332D07CF5B389B0E9F13F2AC173D9D5CB14C469475F26984C79EAE5A5D6E2B70C"
+attestation="18C851BDBA0F1B49C58085770698FD61A23034547B8FE7018161CDB94827E36EC7E9357F95DBDFFE374609F017F8EB70A62E972362C03F4561E099E214CE1003"
 network = "main"
 owner_country = "CL"
 server_country = "NL"
 server_location = "HOSTCIRCLE-L-, NL"
-server_cloud = false
+server_cloud = true
 network_asn = 56504
 desc = "Validator"
 
 unl = ["https://vl.xahau.org"]
+
+[[SERVERS]]
+json_rpc = "https://node.panicbot.app:6007"
+ws = "wss://node.panicbot.app"
+peer = "https://node.panicbot.app:21337"
+desc = "General purpose server cluster"
+
+[[SERVERS]]
+json_rpc = "https://xahau1.panicbot.app:6007"
+ws = "wss://xahau1.panicbot.app"
+peer = "https://xahau1.panicbot.app:21337"
+desc = "General purpose server cluster"
+
+[[SERVERS]]
+json_rpc = "https://xahau2.panicbot.app:6007"
+ws = "wss://xahau2.panicbot.app"
+peer = "https://xahau2.panicbot.app:21337"
+desc = "General purpose server cluster"
 
 [[PRINCIPALS]]
 name = "Lathan"

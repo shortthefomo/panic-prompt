@@ -1,20 +1,35 @@
 # Spec: https://xrpl.org/xrp-ledger-toml.html
 
 [METADATA]
-modified = 2025-01-21T12:12:12.000Z
+modified = 2025-02-14T11:10:12.000Z
 
 [[VALIDATORS]]
 public_key = "nHUNoV59PdKmyN42WGH6jG9ZmGJdsvn1oRHK5qzpmAs6awckZ92h"
-attestation="9572F77F7CEFC0475FE8F4F8C9877CB790DCE4E6778B6532DBC899466E91E23FBB0EF317B2F78B5D2DABE2407FCD3F485E9E48181B6E1569DBB37B6E228AF600"
+attestation="11EE1BB05335DCB67130E3828E42E3F61395A87C3FFF2506999911927CC9815C59D647F49EFB7EA89E8651A690690151734FD115FDFE12C44CD8B84DFB73520E"
 network = "main"
 owner_country = "CL"
 server_country = "NL"
 server_location = "HOSTCIRCLE-L-, NL"
-server_cloud = false
+server_cloud = true
 network_asn = 56504
 desc = "Validator"
 
 unl = ["https://vl.ripple.com", "https://vl.xrplf.org"]
+
+[[SERVERS]]
+ws = "wss://node.panicbot.xyz"
+peer = "https://node.panicbot.xyz:51235"
+desc = "General purpose server cluster"
+
+[[SERVERS]]
+ws = "wss://xrpl1.panicbot.app"
+peer = "https://xrpl1.panicbot.app:51235"
+desc = "General purpose server cluster"
+
+[[SERVERS]]
+ws = "wss://xrpl2.panicbot.app"
+peer = "https://xrpl2.panicbot.app:51235"
+desc = "General purpose server cluster"
 
 [[PRINCIPALS]]
 name = "Lathan"
